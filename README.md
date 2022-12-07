@@ -1,5 +1,5 @@
 # MaritimeSecurityNHL
-Repository for the Assignment AIS/Honeypot
+Repository for the Assignment AIS/Honeypot. The team's task is to combine previous projects: *Honeynet* and *AIS Encoder/Decoder* to create a system that will provide charting and information display. That will allow users to have a good overview, what is happening when the intruder tries to break in. The overall goal is to educate and spread awareness about the risks in the Maritime cybersecurity field.
 
 
 ## Coding Conventios:
@@ -39,3 +39,19 @@ Every function and class needs sane comments to provide a good understanding of 
 
 ### Working with code from others
 If code raises questions or the reader does not agree with the input of the code, then a change of code can be requested and it has to be approved by the team/author of the code.
+
+
+### Components
+## PGN Decoder
+Decodes a full PGN message.
+# Changelog
+# V0.1:
+    - Added timestamp
+    - Received status
+    - PGN number
+    - COM device being sent from
+    
+# Future updates:
+    #v0.2:
+       - Add data deciphher 
+       - Add more error controls
