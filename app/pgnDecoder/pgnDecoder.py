@@ -4,6 +4,11 @@
     NHL Stenden 
 """
 
+"""
+    Changelog:
+        v0.1: Decoding timestam, received status, PGN number and device sent from
+"""
+
 # Full PGN message
 pgn = input("Enter PGN message: ")
 
@@ -22,12 +27,13 @@ else:
 
 
 #Decoding PGN from hex to decimal
-""" 
-h = input('Enter PGN :')
-d = int(h, base=16)
-print('Decimal :', d)
-"""
+pgnHSplitH = pgnSplit[2][1:-2]
+#print(pgnHSplit)
+pgnDConv = int(pgnHSplitH, base=16)
+#print(pgnDConv);
+
 
 # Final message
 print("--------------DECODED PGN MESSAGE--------------" + "\n" + "Timestamp: " + pgnSplit[
-    0] + "\n" + "Status: " + pgnR + "\n" + "--------------END OF DECODED PGN MESSAGE--------------")
+    0] + "\n" + "Status: " + pgnR + "\n" + "PGN Number: " + str(pgnDConv) + "\n"
+       + "COM sevice sent from: " + pgnSplit[3] + "\n" + "--------------END OF DECODED PGN MESSAGE--------------")
