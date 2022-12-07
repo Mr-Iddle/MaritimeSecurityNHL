@@ -1,5 +1,5 @@
 # MaritimeSecurityNHL
-Repository for the Assignment AIS/Honeypot
+Repository for the Assignment AIS/Honeypot. The team's task is to combine previous projects: *Honeynet* and *AIS Encoder/Decoder* to create a system that will provide charting and information display. That will allow users to have a good overview, what is happening when the intruder tries to break in. The overall goal is to educate and spread awareness about the risks in the Maritime cybersecurity field.
 
 
 ## Coding Conventios:
