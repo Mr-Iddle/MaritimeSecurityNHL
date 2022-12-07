@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gpx version="1.1" creator="GPS Visualizer https://www.gpsvisualizer.com/" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<wpt lat="49.296088" lon="-123.133733">
+  <name>1 Vancouver Rowing Club</name>
+  <sym>diamond</sym>
+</wpt>
+<wpt lat="49.292474" lon="-123.124143">
+  <name>2 Coal Harbor Entgrance</name>
+</wpt>
+<wpt lat="49.292905" lon="-123.118706">
+  <name>3 Oil cans</name>
+</wpt>
+<wpt lat="49.300961" lon="-123.113608">
+  <name>4 Brockton Pt</name>
+</wpt>
+<wpt lat="49.315792" lon="-123.138018">
+  <name>5 First Narrows Bridge</name>
+</wpt>
+<wpt lat="49.32121" lon="-123.266983">
+  <name>6 Pt Atkinson</name>
+</wpt>
+<wpt lat="49.329408" lon="-123.431232">
+  <name>7 Cape Roger Curtis, Bowen Is</name>
+  <sym>diamond</sym>
+</wpt>
+<wpt lat="49.463884" lon="-123.991754">
+  <name>8 Thornby Is</name>
+  <sym>diamond</sym>
+</wpt>
+<wpt lat="49.715232" lon="-124.345909">
+  <name>9 Northeast Pt, Texada Is</name>
+</wpt>
+<wpt lat="49.812126" lon="-124.602912">
+  <name>10 Cyril RkLt, Grilse Pt.</name>
+</wpt>
+<wpt lat="49.835168" lon="-124.707432">
+  <name>11 Vivian Is</name>
+  <sym>diamond</sym>
+</wpt>
+<wpt lat="49.920413" lon="-124.969439">
+  <name>12 Sentry Shoal Lighted Buoy</name>
+</wpt>
+<wpt lat="49.987427" lon="-125.201723">
+  <name>13 Cape Mudge, Discovery Passage</name>
+  <sym>diamond</sym>
+</wpt>
+<wpt lat="50.060668" lon="-125.245837">
+  <name>14 ;April Pt.</name>
+  <sym>diamond</sym>
+</wpt>
+<wpt lat="50.115994" lon="-125.316309">
+  <name>15 ;Race Pt.</name>
+  <sym>diamond</sym>
+</wpt>
+<wpt lat="50.129151" lon="-125.35246">
+  <name>16 ;Wilfred Pt, Seymour Narrows</name>
+  <sym>diamond</sym>
+</wpt>
+<wpt lat="50.177652" lon="-125.362336">
+  <name>17 ;Separation Pt. Seymour Narrows</name>
+</wpt>
+<wpt lat="50.247133" lon="-125.391116">
+  <name>18 ;Mc Mullen Pt.</name>
+</wpt>
+<wpt lat="50.295963" lon="-125.414611">
+  <name>19 ;Cinque Islands Light</name>
+</wpt>
+<wpt lat="50.33624" lon="-125.434778">
+  <name>20 ;Chatham Pt.</name>
+  <sym>diamond</sym>
+</wpt>
+<wpt lat="50.355548" lon="-125.528792">
+  <name>21 Walkem Is. Lt.</name>
+</wpt>
+<wpt lat="50.372264" lon="-125.577481">
+  <name>22 Ripple Pt. Lt.</name>
+  <sym>diamond</sym>
+</wpt>
+<wpt lat="50.369877" lon="-125.745283">
+  <name>23 Vansittart Pt. Lt</name>
+  <sym>diamond</sym>
+</wpt>
+<wpt lat="50.38804" lon="-125.825857">
+  <name>24 ;Camp Pt. Lt.</name>
+</wpt>
+<wpt lat="50.392819" lon="-125.911505">
+  <name>25 ;Petersen Lt</name>
+  <sym>diamond</sym>
+</wpt>
+<wpt lat="50.45785" lon="-126.08242">
+  <name>26 Hickey Pt. Lt</name>
+  <sym>diamond</sym>
+</wpt>
+<wpt lat="50.479807" lon="-126.277611">
+  <name>27 Adam River</name>
+  <sym>diamond</sym>
+</wpt>
+<wpt lat="50.514237" lon="-126.581061">
+  <name>28 Swaine Pt. Lt.</name>
+  <sym>diamond</sym>
+</wpt>
+<wpt lat="50.547922" lon="-126.781195">
+  <name>29 Blinkhorn Lt.</name>
+  <sym>diamond</sym>
+</wpt>
+<wpt lat="50.574113" lon="-126.925859">
+  <name>30 Gordon Bluff</name>
+  <sym>diamond</sym>
+</wpt>
+<wpt lat="50.585098" lon="-126.958153">
+  <name>31 Alert Rk Lt.</name>
+  <sym>diamond</sym>
+</wpt>
+<wpt lat="50.599032" lon="-127.05654">
+  <name>32 Port McNeill (Ferry Terminal)</name>
+  <sym>diamond</sym>
+</wpt>
+<wpt lat="50.616055" lon="-127.081532">
+  <name>33 Broughton Str.</name>
+  <sym>diamond</sym>
+</wpt>
+<wpt lat="50.62509" lon="-127.160977">
+  <name>34 Pulteney Pt Lt.</name>
+  <sym>diamond</sym>
+</wpt>
+<wpt lat="50.731015" lon="-127.353712">
+  <name>36 Round Is. Lt</name>
+</wpt>
+<wpt lat="50.763888" lon="-127.42252">
+  <name>37 Masterman Lt</name>
+  <sym>diamond</sym>
+</wpt>
+<wpt lat="50.759139" lon="-127.462328">
+  <name>38 Port Hardy Entrance</name>
+  <sym>diamond</sym>
+</wpt>
+<wpt lat="50.774838" lon="-127.478514">
+  <name>39 Duval Pt</name>
+  <sym>diamond</sym>
+</wpt>
+<wpt lat="50.867716" lon="-127.855261">
+  <name>40 Dilton Rk Lt, Shurshartie Bay</name>
+  <sym>diamond</sym>
+</wpt>
+<wpt lat="50.881627" lon="-127.905577">
+  <name>41Jepther Pt</name>
+  <sym>diamond</sym>
+</wpt>
+<wpt lat="50.882709" lon="-127.987874">
+  <name>42 Tatnall Reef, Nahwitti Bar</name>
+</wpt>
+<wpt lat="50.885356" lon="-128.055637">
+  <name>43 Cape Sutil</name>
+  <sym>diamond</sym>
+</wpt>
+<wpt lat="50.884747" lon="-128.090457">
+  <name>44 Thomsen Rk DANGER</name>
+</wpt>
+<wpt lat="50.817145" lon="-128.492267">
+  <name>45 Scott Channel</name>
+  <sym>diamond</sym>
+</wpt>
+<wpt lat="50.501183" lon="-128.513064">
+  <name>46 C. Palmerson, 10 SW of</name>
+  <sym>diamond</sym>
+</wpt>
+<wpt lat="50.105084" lon="-128.197959">
+  <name>47 ;Brooks Peninsula, ;10 W of</name>
+  <sym>diamond</sym>
+</wpt>
+<wpt lat="49.323387" lon="-126.707171">
+  <name>48 Estevan Pt</name>
+</wpt>
+<wpt lat="49.071222" lon="-126.132812">
+  <name>49 Off Vargas Is</name>
+  <sym>diamond</sym>
+</wpt>
+<wpt lat="48.651836" lon="-125.206994">
+  <name>50 Pachina Pt.</name>
+  <sym>diamond</sym>
+</wpt>
+<wpt lat="48.51768" lon="-124.51273">
+  <name>51 Port San Juan Lt</name>
+  <sym>diamond</sym>
+</wpt>
+<wpt lat="48.368122" lon="-123.926184">
+  <name>52 Sheringham Pt. Lt</name>
+</wpt>
+<wpt lat="48.305346" lon="-123.650102">
+  <name>53 Beechey Head</name>
+  <sym>diamond</sym>
+</wpt>
+<wpt lat="48.303104" lon="-123.550108">
+  <name>54 Race Passage</name>
+</wpt>
+<wpt lat="48.39218" lon="-123.296319">
+  <name>55 Stains Pt Light</name>
+</wpt>
+<wpt lat="48.425701" lon="-123.282422">
+  <name>56 Lewis Reef Light</name>
+</wpt>
+<wpt lat="48.428638" lon="-123.28068">
+  <name>57 Fiddle Reef Light</name>
+</wpt>
+<wpt lat="48.448762" lon="-123.257007">
+  <name>58 Cadboro Pt. Light</name>
+</wpt>
+<wpt lat="48.546592" lon="-123.228314">
+  <name>59 ;Kelp Reef Lt</name>
+</wpt>
+<wpt lat="48.690536" lon="-123.256734">
+  <name>60 Turn Pt Light</name>
+</wpt>
+<wpt lat="48.769549" lon="-123.325323">
+  <name>61 Thieves Bay ;Lt</name>
+</wpt>
+<wpt lat="48.829273" lon="-123.34346">
+  <name>62 Portlock Pt Light</name>
+</wpt>
+<wpt lat="48.858883" lon="-123.394561">
+  <name>63 ;Ben Mahr Rk. Lighted buoy</name>
+</wpt>
+<wpt lat="48.921583" lon="-123.501244">
+  <name>64 Walker Rk Light</name>
+</wpt>
+<wpt lat="48.980145" lon="-123.588258">
+  <name>65 Hall Island</name>
+</wpt>
+<wpt lat="49.001829" lon="-123.597649">
+  <name>66 Portlier Pass Approach</name>
+</wpt>
+<wpt lat="49.012486" lon="-123.590445">
+  <name>67 Virago Rk Lt, Portlier Pass</name>
+</wpt>
+<wpt lat="49.294807" lon="-123.275748">
+  <name>68 Spanish Bank lighted Buoy</name>
+</wpt>
+<wpt lat="49.31625" lon="-123.166836">
+  <name>69 Approach to Bridge</name>
+</wpt>
+<wpt lat="49.315605" lon="-123.139051">
+  <name>70 First Narrows Bridge, FINISH</name>
+</wpt>
+<trk>
+  <name>Round Vancourver Island</name>
+  <trkseg>
+    <trkpt lat="49.296088" lon="-123.133733">
+      <sym>diamond</sym>
+    </trkpt>
+    <trkpt lat="49.292474" lon="-123.124143"></trkpt>
+    <trkpt lat="49.292905" lon="-123.118706"></trkpt>
+    <trkpt lat="49.300961" lon="-123.113608"></trkpt>
+    <trkpt lat="49.315792" lon="-123.138018"></trkpt>
+    <trkpt lat="49.32121" lon="-123.266983"></trkpt>
+    <trkpt lat="49.329408" lon="-123.431232">
+      <sym>diamond</sym>
+    </trkpt>
+    <trkpt lat="49.463884" lon="-123.991754">
+      <sym>diamond</sym>
+    </trkpt>
+    <trkpt lat="49.715232" lon="-124.345909"></trkpt>
+    <trkpt lat="49.812126" lon="-124.602912"></trkpt>
+    <trkpt lat="49.835168" lon="-124.707432">
+      <sym>diamond</sym>
+    </trkpt>
+    <trkpt lat="49.920413" lon="-124.969439"></trkpt>
+    <trkpt lat="49.987427" lon="-125.201723">
+      <sym>diamond</sym>
+    </trkpt>
+    <trkpt lat="50.060668" lon="-125.245837">
+      <sym>diamond</sym>
+    </trkpt>
+    <trkpt lat="50.115994" lon="-125.316309">
+      <sym>diamond</sym>
+    </trkpt>
+    <trkpt lat="50.129151" lon="-125.35246">
+      <sym>diamond</sym>
+    </trkpt>
+    <trkpt lat="50.177652" lon="-125.362336"></trkpt>
+    <trkpt lat="50.247133" lon="-125.391116"></trkpt>
+    <trkpt lat="50.295963" lon="-125.414611"></trkpt>
+    <trkpt lat="50.33624" lon="-125.434778">
+      <sym>diamond</sym>
+    </trkpt>
+    <trkpt lat="50.355548" lon="-125.528792"></trkpt>
+    <trkpt lat="50.372264" lon="-125.577481">
+      <sym>diamond</sym>
+    </trkpt>
+    <trkpt lat="50.369877" lon="-125.745283">
+      <sym>diamond</sym>
+    </trkpt>
+    <trkpt lat="50.38804" lon="-125.825857"></trkpt>
+    <trkpt lat="50.392819" lon="-125.911505">
+      <sym>diamond</sym>
+    </trkpt>
+    <trkpt lat="50.45785" lon="-126.08242">
+      <sym>diamond</sym>
+    </trkpt>
+    <trkpt lat="50.479807" lon="-126.277611">
+      <sym>diamond</sym>
+    </trkpt>
+    <trkpt lat="50.514237" lon="-126.581061">
+      <sym>diamond</sym>
+    </trkpt>
+    <trkpt lat="50.547922" lon="-126.781195">
+      <sym>diamond</sym>
+    </trkpt>
+    <trkpt lat="50.574113" lon="-126.925859">
+      <sym>diamond</sym>
+    </trkpt>
+    <trkpt lat="50.585098" lon="-126.958153">
+      <sym>diamond</sym>
+    </trkpt>
+    <trkpt lat="50.599032" lon="-127.05654">
+      <sym>diamond</sym>
+    </trkpt>
+    <trkpt lat="50.616055" lon="-127.081532">
+      <sym>diamond</sym>
+    </trkpt>
+    <trkpt lat="50.62509" lon="-127.160977">
+      <sym>diamond</sym>
+    </trkpt>
+    <trkpt lat="50.731015" lon="-127.353712"></trkpt>
+    <trkpt lat="50.763888" lon="-127.42252">
+      <sym>diamond</sym>
+    </trkpt>
+    <trkpt lat="50.759139" lon="-127.462328">
+      <sym>diamond</sym>
+    </trkpt>
+    <trkpt lat="50.774838" lon="-127.478514">
+      <sym>diamond</sym>
+    </trkpt>
+    <trkpt lat="50.867716" lon="-127.855261">
+      <sym>diamond</sym>
+    </trkpt>
+    <trkpt lat="50.881627" lon="-127.905577">
+      <sym>diamond</sym>
+    </trkpt>
+    <trkpt lat="50.882709" lon="-127.987874"></trkpt>
+    <trkpt lat="50.885356" lon="-128.055637">
+      <sym>diamond</sym>
+    </trkpt>
+    <trkpt lat="50.884747" lon="-128.090457"></trkpt>
+    <trkpt lat="50.817145" lon="-128.492267">
+      <sym>diamond</sym>
+    </trkpt>
+    <trkpt lat="50.501183" lon="-128.513064">
+      <sym>diamond</sym>
+    </trkpt>
+    <trkpt lat="50.105084" lon="-128.197959">
+      <sym>diamond</sym>
+    </trkpt>
+    <trkpt lat="49.323387" lon="-126.707171"></trkpt>
+    <trkpt lat="49.071222" lon="-126.132812">
+      <sym>diamond</sym>
+    </trkpt>
+    <trkpt lat="48.651836" lon="-125.206994">
+      <sym>diamond</sym>
+    </trkpt>
+    <trkpt lat="48.51768" lon="-124.51273">
+      <sym>diamond</sym>
+    </trkpt>
+    <trkpt lat="48.368122" lon="-123.926184"></trkpt>
+    <trkpt lat="48.305346" lon="-123.650102">
+      <sym>diamond</sym>
+    </trkpt>
+    <trkpt lat="48.303104" lon="-123.550108"></trkpt>
+    <trkpt lat="48.39218" lon="-123.296319"></trkpt>
+    <trkpt lat="48.425701" lon="-123.282422"></trkpt>
+    <trkpt lat="48.428638" lon="-123.28068"></trkpt>
+    <trkpt lat="48.448762" lon="-123.257007"></trkpt>
+    <trkpt lat="48.546592" lon="-123.228314"></trkpt>
+    <trkpt lat="48.690536" lon="-123.256734"></trkpt>
+    <trkpt lat="48.769549" lon="-123.325323"></trkpt>
+    <trkpt lat="48.829273" lon="-123.34346"></trkpt>
+    <trkpt lat="48.858883" lon="-123.394561"></trkpt>
+    <trkpt lat="48.921583" lon="-123.501244"></trkpt>
+    <trkpt lat="48.980145" lon="-123.588258"></trkpt>
+    <trkpt lat="49.001829" lon="-123.597649"></trkpt>
+    <trkpt lat="49.012486" lon="-123.590445"></trkpt>
+    <trkpt lat="49.294807" lon="-123.275748"></trkpt>
+    <trkpt lat="49.31625" lon="-123.166836"></trkpt>
+    <trkpt lat="49.315605" lon="-123.139051"></trkpt>
+  </trkseg>
+</trk>
+</gpx>
