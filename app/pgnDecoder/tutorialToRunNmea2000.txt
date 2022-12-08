@@ -1,0 +1,29 @@
+1.) Download the com0com from here: https://sourceforge.net/projects/com0com/
+	- Make sure COM#-COM# is unticked on installation.
+ 	- Once installed select to open it if asked so at the end of the installation wizzard.
+	- Check your virtual port pair.
+	- Enable buffer overrun for both COM ports (check screenshot).
+	- The input is the left side so in my case COM3 and output the right side COM 4.
+
+
+2.) Download the NMEA simulator from here (this is the only one I found works to simulate NMEA2000 port successfully): https://www.kave.fi/Apps/
+	- Once downloaded, open it.
+      - Go to Tools ---> Options ---> NMEA2000 ---> Select NMEA2000 Port input (more up in my case it was COM3)(also if the list of ports is not showing click the checkbox
+	with use list)(baudrate you can leave it at 115200).
+	- Press ok.
+	- Now in the main window (the one with the compass) look at the bottom and click the checkbox Run (ignore the NMEA0183 if it says port closed, it's because we work with NMEA2000).
+	- Now if everything worked fine at the bottom you should see after NMEA2000: Msg buffer, etc. .
+	- Now also increase the throttle from the right of the compass and move the slider of the rudder a bit (under the compass) so data gets sent.
+	- Also, what you can do is go back into Tools ---> Options ---> NMEA2000 and underneath the select port there are more checkboxes for other PGNs to be sent. Select
+	what you want also to be sent.
+
+3.) Download the Actisense NMEA Reader from here: https://actisense.com/downloads/?type=&product=.pro-1881
+    - Obviously make sure your NMEA simulator is still running.
+    - Once installed open the app.
+    - FIRST SELECT THE BAUDRATE on 115200 on the right (because it might crash at least for me when I selected the port first) and then select the virtual output
+	port(in my case it was COM 4).
+    - You should see PGNs listed and if you click one of them, on the right, there should be the data decrypted. Double click to see data displayed more neatly.
+
+
+I still didn't find how to read NMEA2000 data in OpenCPN because in all irony it can read only NMEA0183 but it can be done with SignalK and converted to NMEA0183 but I still
+have to look into that.
