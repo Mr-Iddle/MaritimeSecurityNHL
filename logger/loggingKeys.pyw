@@ -1,3 +1,5 @@
+# IMPORTANT NOTE! Keylogger won't be used in this project due to the task change.
+
 
 from pynput.keyboard import Key, Listener
 import logging
