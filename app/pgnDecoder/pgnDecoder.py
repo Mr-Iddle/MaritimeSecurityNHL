@@ -6,7 +6,7 @@
 
 """
     Changelog:
-        v0.1: Decoding timestam, received status, PGN number and device sent from
+        v0.1: Decoding timestamp, received status, PGN number and device sent from
 """
 
 # Full PGN message
