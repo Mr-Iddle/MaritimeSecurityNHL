@@ -55,3 +55,7 @@ Decodes a full PGN message.
     #v0.2:
        - Add data deciphher 
        - Add more error controls
+       
+## PGN Decoder with software
+     # Text file:
+         - Read the instructions of installation in app/pgnDecoder
